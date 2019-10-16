@@ -1,0 +1,40 @@
+.welcome-text.ja {
+    font-weight: 700;
+}
+
+
+@media only screen and (min-width: 992px){
+	
+	body.ja .welcome-text-container {
+	    max-width: 910px !important;
+	}
+	
+	.welcome-text.ja {
+	    font-size: 30px;
+	    line-height: 44px;
+	}
+}
+
+#news .slider.center .news-title,
+#news .slider.center .news-date,
+#contact .address-p {
+    font-family: "Chronicle Text G4 A", "Chronicle Text G4 B", "Georgia", Cambria, Times New Roman, Times, serif;
+}
+
+nobr {
+   white-space: nowrap;
+}
+
+@media only screen and (max-width: 570px){
+	
+	.modal-industry.modal.show .modal-dialog .modal-content {
+	    min-height: 100vh;
+	}
+}
+
+
+/*
+
+<h1 class="d-inline welcome-text ja">Moon</h1><h2 class="d-inline welcome-text ja"><nobr>は<wbr>三井物産<wbr>がこれ<wbr>までにない<br class="br-md" />新しい<wbr>ビジネス<wbr>を<wbr>「つくる」<wbr>ための<wbr>イノベーション・<wbr>ラボです。</nobr></h2>
+
+*/
