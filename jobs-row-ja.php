@@ -25,7 +25,18 @@
 
 	<div class="col-12 ja">
 	<?php require 'animation-start.php'; ?>
-		<p class="slide-contact ja">募集中の職種にあなたとフィットするポジションがなくとも、Moonに興味のある方はぜひ<span class="md-br"></span><a href="mailto:join@mooncreativelab.com">join@mooncreativelab.com</a>までご連絡ください。</p>
+
+    <p class=“slide-contact ja”>
+      募集中の職種にあなたとフィットするポジションがなくとも、Moonに興味のある方はぜひ
+      <span class=“md-br”></span>
+
+      <a href=“https://boards.greenhouse.io/moon“>
+        こちら
+      </a>
+
+      よりご連絡ください。
+    </p>
+
 	</div></div><!-- /animation -->
 	</div>
 </div>
