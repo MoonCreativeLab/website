@@ -10,7 +10,7 @@
           </p>
 
           <p>
-            興味がある？
+            ご興味おありですか？
 
             <a href="https://boards.greenhouse.io/moon?gh_src=d01d12402">
               ここから応募してください！
@@ -62,7 +62,7 @@
           </p>
 
           <p>
-            興味がある？
+            ご興味おありですか？
 
             <a href="https://boards.greenhouse.io/moon?gh_src=d01d12402">
               ここから応募してください！
@@ -113,7 +113,7 @@
           </p>
 
           <p>
-            興味がある？
+            ご興味おありですか？
 
             <a href="https://boards.greenhouse.io/moon?gh_src=d01d12402">
               ここから応募してください！
