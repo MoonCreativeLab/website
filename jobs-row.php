@@ -26,7 +26,7 @@
 	<div class="col-12">
 	<?php require 'animation-start.php'; ?>
 		<p class="slide-contact">Interested in joining our team? 
-		<br />Please reach out to <a href="mailto:join@mooncreativelab.com">join@mooncreativelab.com</a></p>
+		<br /><a href="https://boards.greenhouse.io/moon">Apply on our jobs page</a></p>
 	</div></div><!-- /animation -->
 	</div>
 </div>
