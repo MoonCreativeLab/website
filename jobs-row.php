@@ -25,7 +25,7 @@
 
 	<div class="col-12">
 	<?php require 'animation-start.php'; ?>
-		<p class="slide-contact">Don’t feel like you match any of our job openings but still interested in joining our team? 
+		<p class="slide-contact">Interested in joining our team? 
 		<br />Please reach out to <a href="mailto:join@mooncreativelab.com">join@mooncreativelab.com</a></p>
 	</div></div><!-- /animation -->
 	</div>
