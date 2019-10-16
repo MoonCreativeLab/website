@@ -30,7 +30,7 @@
       募集中の職種にあなたとフィットするポジションがなくとも、Moonに興味のある方はぜひ
       <span class=“md-br”></span>
 
-      <a href=“https://boards.greenhouse.io/moon“>
+      <a href="https://boards.greenhouse.io/moon?gh_src=d01d12402">
         こちら
       </a>
 
