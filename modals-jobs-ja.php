@@ -5,7 +5,18 @@
 			
 				<div class="bg-white mj-left">
 					<h3 class="mj-title gilroy">Design Researcher</h3>
-					<p class="mj-p ja">Moonでは、チームが優れたデザインやイノベーションの原動力となる人間中心的なインサイトを発掘できるよう導きワクワクさせる、デザイン・リサーチャーを探しています。</p>
+          <p class="mj-p ja">
+            Moonでは、チームが優れたデザインやイノベーションの原動力となる人間中心的なインサイトを発掘できるよう導きワクワクさせる、デザイン・リサーチャーを探しています。
+          </p>
+
+          <p>
+            興味がある？
+
+            <a href="https://boards.greenhouse.io/moon?gh_src=d01d12402">
+              ここから応募してください！
+            </a>
+          </p>
+
 				</div>
 				<div class="bg-yellow mj-right">
 				
@@ -46,7 +57,18 @@
 			
 				<div class="bg-white mj-left">
 					<h3 class="mj-title">Interaction Designer</h3>
-					<p class="mj-p ja">Moonでは、情報を伝達し人々の経験を形作る、インターフェースやタッチポイントといった経験の目に見える部分を担うインタラクション・デザイナーを探しています。</p>
+          <p class="mj-p ja">
+            Moonでは、情報を伝達し人々の経験を形作る、インターフェースやタッチポイントといった経験の目に見える部分を担うインタラクション・デザイナーを探しています。
+          </p>
+
+          <p>
+            興味がある？
+
+            <a href="https://boards.greenhouse.io/moon?gh_src=d01d12402">
+              ここから応募してください！
+            </a>
+          </p>
+
 				</div>
 				<div class="bg-yellow mj-right">
 				
@@ -86,7 +108,18 @@
 			
 				<div class="bg-white mj-left">
 					<h3 class="mj-title">Communication Designer</h3>
-					<p class="mj-p ja">Moonでは、ブランドやストーリー、サービスや経験に対し命を吹き込むべくチームと協業することのできるコミュニケーション・デザイナーを探しています。ブランド戦略やアイデンティティ、ストーリーテリングに関して幅広い経験を持ち、ものづくりのできる方が理想です。</p>
+          <p class="mj-p ja">
+            Moonでは、ブランドやストーリー、サービスや経験に対し命を吹き込むべくチームと協業することのできるコミュニケーション・デザイナーを探しています。ブランド戦略やアイデンティティ、ストーリーテリングに関して幅広い経験を持ち、ものづくりのできる方が理想です。
+          </p>
+
+          <p>
+            興味がある？
+
+            <a href="https://boards.greenhouse.io/moon?gh_src=d01d12402">
+              ここから応募してください！
+            </a>
+          </p>
+
 				</div>
 				<div class="bg-yellow mj-right">
 				
