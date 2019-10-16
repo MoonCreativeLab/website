@@ -11,7 +11,8 @@
           </p>
 
           <p>
-              Interested?
+            Interested?
+
             <a href="https://boards.greenhouse.io/moon">
               Apply Here!
             </a>
@@ -57,7 +58,18 @@
 			
 				<div class="bg-white mj-left">
 					<h3 class="mj-title">Interaction Designer</h3>
-					<p class="mj-p">Moon is looking for an Interaction Designer who will be accountable for the visible portions of an experience: the interfaces and touch points that convey information and move people through an experience. </p>
+          <p class="mj-p">
+            Moon is looking for an Interaction Designer who will be accountable for the visible portions of an experience: the interfaces and touch points that convey information and move people through an experience.
+          </p>
+
+          <p>
+            Interested?
+
+            <a href="https://boards.greenhouse.io/moon">
+              Apply Here!
+            </a>
+          </p>
+
 				</div>
 				<div class="bg-yellow mj-right">
 				
@@ -97,7 +109,18 @@
 			
 				<div class="bg-white mj-left">
 					<h3 class="mj-title">Communication Designer</h3>
-					<p class="mj-p">Moon is looking for a Communication Designer who can collaborate with teams to bring brands, stories, services, and experiences to life. The ideal candidate has broad experience in brand strategy, brand identity, and storytelling and can take a media-agnostic approach to applying their craft.</p>
+          <p class="mj-p">
+            Moon is looking for a Communication Designer who can collaborate with teams to bring brands, stories, services, and experiences to life. The ideal candidate has broad experience in brand strategy, brand identity, and storytelling and can take a media-agnostic approach to applying their craft.
+          </p>
+
+          <p>
+            Interested?
+
+            <a href="https://boards.greenhouse.io/moon">
+              Apply Here!
+            </a>
+          </p>
+
 				</div>
 				<div class="bg-yellow mj-right">
 				
