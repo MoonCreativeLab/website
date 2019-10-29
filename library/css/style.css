@@ -11910,6 +11910,10 @@ Stylesheet: Typography
   font-family: gilroyExtrabold;
   src: url("../fonts/Gilroy-Extrabold.otf") format("opentype");
 }
+@font-face {
+  font-family: gilroyRegular;
+  src: url("../fonts/Gilroy-Regular.otf") format("opentype");
+}
 /* line 27, ../scss/partials/_typography.scss */
 .sans-serif {
   font-family: Gilroy-Bold, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
@@ -11925,6 +11929,12 @@ Stylesheet: Typography
 /* line 40, ../scss/partials/_typography.scss */
 .Gilroy-Bold {
   font-family: Gilroy-Bold;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.Gilroy-Regular {
+  font-family: Gilroy-Regular;
   font-weight: normal;
   font-style: normal;
 }
@@ -13452,8 +13462,145 @@ section.slide {
 #welcome .btn-play-video {
   margin-top: 30px;
 }
+
+.banner-btn-wrapper{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.banner-btn-wrapper a.banner-btn:hover{
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+.social-icons-row{
+  justify-content: space-evenly;
+  max-width: 100%;
+  margin-top: 80px;
+  display :flex;
+}
+
+.social-icons-row a,
+.social-icons-row svg{
+  width: 50px;
+  height: 50px;
+}
+
+.social-icons-row a{
+  border-bottom: none;
+  margin: 0;
+}
+
+.yellow-back{
+  background: #ffca05;
+  color: #000;
+}
+
+.jobs-section-header{
+  border: 2px solid #fff;
+  padding: 30px;
+}
+
+.jobs-section-header h1, .jobs-section-header-desc{
+  width: 50%;
+}
+
+.jobs-section-header h1{
+  font-size: 45px;
+  margin-bottom: 100px;
+}
+
+.jobs-section-header p{
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.jobs-section-items{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px -15px 40px;
+}
+
+.jobs-section-item{
+  flex: 1;
+  margin: 15px;
+  height: 500px;
+  border: 2px solid #fff;
+  min-width: calc(100%/4);
+  max-width: calc(100%/3.25);
+}
+
+.jobs-section-item img{
+  height: 350px;
+  width: 100%;
+}
+
+.jobs-section-item .jobs-section-item-desc{
+  padding: 20px;
+  position: relative;
+  min-height: 150px;
+}
+
+.jobs-section-item .jobs-section-item-desc .job-title{
+  width: 50%;
+  font-size: 20px;
+}
+
+.jobs-section-item .jobs-section-item-desc .job-title span{
+  display: block;
+}
+
+.jobs-section-item .jobs-section-item-desc a.Gilroy-Regular{
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  font-size: 14px;
+  cursor: pointer;
+  border: none;
+}
+
+.jobs-section-item .jobs-section-item-desc a.Gilroy-Regular:hover{
+  text-decoration: underline;
+}
+
+#jobs-section{
+  font-family: Gilroy-Bold, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.page-wrapper{
+  margin-top: 138px;
+}
+
+@media screen and (max-width: 880px){
+  .jobs-section-item{
+    min-width: calc(100vw/2.9);
+    max-width: calc(100vw/2.3);
+  }
+}
+
+@media screen and (max-width: 662px){
+  .jobs-section-header h1, .jobs-section-header-desc {
+    width: 100%;
+}
+ .jobs-section-header-desc {
+    text-align: center;
+ }
+}
+
+@media screen and (max-width: 530px){
+  .jobs-section-item{
+    min-width: 70%;
+    max-width: 100%;
+  }
+  .jobs-section-items{
+    justify-content: center;
+  }
+}
+
+
 /* line 293, ../scss/breakpoints/_base.scss */
-#welcome .btn-play-video .video-btn {
+#welcome .btn-play-video .video-btn, 
+ .banner-btn-wrapper a.banner-btn {
   transition-duration: 0.4s;
   background-color: #ffca05;
   color: #000000 !important;
@@ -13541,6 +13688,9 @@ section.slide {
   border: none !important;
 }
 @media only screen and (max-width: 768px) {
+  .page-wrapper{
+    margin-top: 65px;
+  }
   /* line 382, ../scss/breakpoints/_base.scss */
   #welcome-slider .carousel-control-prev, #welcome-slider .carousel-control-next {
     width: 40px;
@@ -13671,7 +13821,7 @@ section.slide {
 /* line 509, ../scss/breakpoints/_base.scss */
 #team {
   background-color: #ffffff;
-  padding-top: 50px;
+  padding-top: 120px;
   padding-bottom: 50px;
 }
 /* line 514, ../scss/breakpoints/_base.scss */
@@ -13886,6 +14036,7 @@ section.slide {
   height: 315px;
   background-color: #ffffff;
   margin: 15px;
+  overflow-y: scroll;
 }
 /* line 725, ../scss/breakpoints/_base.scss */
 #news .slider.center .news-bi {
@@ -14384,6 +14535,15 @@ TABLET & SMALLER LAPTOPS
     padding: 0;
     width: auto;
     border: none;
+  }
+
+  #main-nav ul li a.active {
+    border-bottom: solid 2px #ffca05;
+  }
+
+  .social-icons-row{
+    max-width: 260px;
+    justify-content: space-between;
   }
 
   /* line 80, ../scss/breakpoints/_768up.scss */
