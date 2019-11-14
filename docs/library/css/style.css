@@ -14543,7 +14543,7 @@ TABLET & SMALLER LAPTOPS
 
   .social-icons-row{
     max-width: 260px;
-    justify-content: space-between;
+    /* justify-content: space-between; */
   }
 
   /* line 80, ../scss/breakpoints/_768up.scss */
